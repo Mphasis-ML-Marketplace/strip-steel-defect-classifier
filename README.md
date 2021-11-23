@@ -1,0 +1,1 @@
+# strip-steel-defect-classifier
